@@ -47,6 +47,8 @@ namespace Var7Sol120
             canvas.FillPolygon(new SolidBrush(Color.Cyan), HexA);
 
             Console.ReadKey();
+
+            ReleaseDC(hWnd,hDc);
         }
     }
 }

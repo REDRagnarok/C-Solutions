@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Var7Sol8
 {
-    class Program
+    class Polygon
     {
         static void Main(string[] args)
         {

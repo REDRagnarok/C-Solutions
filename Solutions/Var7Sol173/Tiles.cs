@@ -37,6 +37,7 @@ namespace Var7Sol173
             
             for (int k = 0; k < 200; k++) 
             {
+               
                 int Y = coord.Next(0, Console.WindowHeight*12);
                 int X = coord.Next(0, Console.WindowWidth*10);
                 int W = coord.Next(0, Console.WindowHeight*5);
